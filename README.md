@@ -1,5 +1,9 @@
 <div align="center">
-
+  <br />
+    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
+      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
+    </a>
+  <br />
 <h3 align="center">Full Stack Uber Clone</h3>
 
 
@@ -1696,12 +1700,3 @@ You can find important links mentioned in the YouTube video below:
 Assets used in the project can be
 found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
